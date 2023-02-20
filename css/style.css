@@ -1,0 +1,23 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.mynavbar{
+
+    background-color: #4741af;
+}
+
+.nav-link{
+
+    color: white;
+    font-size: 18px;
+    font-weight: 700px;
+    padding: 25px 0;
+}
+
+.navbar-brand{
+
+color: white;
+font-size: 45px;
+font-weight: 700px;
+}
