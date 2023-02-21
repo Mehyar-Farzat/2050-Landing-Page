@@ -45,6 +45,11 @@ body{
     
 }
 
+.nav-item{
+
+    padding: 0 15px;
+}
+
 .text-banner{
 
     margin-top: 170px;
