@@ -10,13 +10,14 @@ body{
 .mynavbar{
 
     background-color: #4741af;
+    
 }
 
 .nav-link{
 
     color: white;
     font-size: 18px;
-    font-weight: 700px;
+    font-weight: 700;
     padding: 25px 0;
 }
 
@@ -24,19 +25,19 @@ body{
 
 color: white;
 font-size: 45px;
-font-weight: 700px;
+font-weight: 700;
 }
 
 .banner-title{
 
     font-size: 72px;
-    font-weight: 800px;
+    font-weight: 800;
 }
 
 .banner-subtitle{
 
     font-size: 24px;
-    font-weight: 500px;
+    font-weight: 500;
 }
 
 .banner-btn{
@@ -52,4 +53,34 @@ font-weight: 700px;
 
     color: #6C63FF;
     background-color: white;
+}
+
+.text-subtitle{
+color: #6C63FF;
+font-size: 24px;
+font-weight: 700;
+
+}
+
+.text-title{
+
+    font-size: 48px;
+    font-weight: 700;
+
+}
+
+.text-p{
+
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.text-link{
+
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.about-img{
+    margin-left: -327px;
 }
