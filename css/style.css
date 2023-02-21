@@ -9,16 +9,45 @@ body{
 
 .mynavbar{
 
+
     background-color: #4741af;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent
     
+}
+
+.nav-item{
+
+    
+}
+
+
+
+
+.transition-3{
+
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    transition-property: all;
 }
 
 .nav-link{
 
     color: white;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 700;
-    padding: 25px 0;
+    padding: 10px;
+    
+    
+}
+
+.text-banner{
+
+    margin-top: 170px;
 }
 
 .navbar-brand{
@@ -38,6 +67,7 @@ font-weight: 700;
 
     font-size: 24px;
     font-weight: 500;
+    padding: 20px;
 }
 
 .banner-btn{
@@ -53,6 +83,11 @@ font-weight: 700;
 
     color: #6C63FF;
     background-color: white;
+}
+
+.img-banner{
+
+    margin-top: 100px;
 }
 
 .text-subtitle{
@@ -98,3 +133,4 @@ font-weight: 700;
     padding: 20px;
     border-radius: 50%;
 }
+
