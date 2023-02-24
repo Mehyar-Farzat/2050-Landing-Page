@@ -107,6 +107,7 @@ font-weight: 700;
 
     font-size: 18px;
     font-weight: 400;
+    line-height: 31px;
 }
 
 .text-link{
@@ -170,3 +171,22 @@ font-weight: 700;
     color: white;
 }
 
+ul{
+
+    list-style-type: none;
+    padding-top: 20px;
+
+
+}
+
+.img-partner{
+
+    padding: 40px;
+   
+    
+}
+
+.mydiv-team{
+
+    padding-top: 70px;
+}
