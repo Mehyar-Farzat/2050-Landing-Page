@@ -97,7 +97,7 @@ font-weight: 700;
 
 .text-subtitle{
 color: #6C63FF;
-font-size: 24px;
+font-size: 21px;
 font-weight: 700;
 
 }
@@ -154,3 +154,24 @@ font-weight: 700;
     border-bottom: 3px solid #6C63FF;
 }
 
+.container-space{
+
+    margin-top: 300px;
+}
+
+.feature-icon{
+
+    background-color: #6C63FF;
+    border-radius: 50%;
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    padding: 4px;
+    
+}
+.feature-icon i{
+    font-size: 25px;
+    color: white;
+}
