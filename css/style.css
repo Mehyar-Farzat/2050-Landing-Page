@@ -190,3 +190,37 @@ ul{
 
     padding-top: 70px;
 }
+
+.blog-link{
+
+    font-size: 18px;
+}
+
+.blog-date{
+
+    font-size: 16px;
+}
+
+.blog-p{
+
+    font-size: 21px;
+    line-height: 1.6;
+    font-weight: 400;
+}
+
+.blog-img{
+
+    transition: all .9s;
+}
+
+.card:hover .blog-img{
+
+    transform: scale(1.5);
+    
+}
+
+.card{
+
+    overflow:hidden;
+    
+}
