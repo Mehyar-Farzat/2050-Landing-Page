@@ -3,49 +3,37 @@ body{
 }
 
 .container{
-
     max-width: 1200px;
 }
 
 .mynavbar{
-
-
     background-color: #4741af;
     box-sizing: border-box;
     font-family: sans-serif;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
     -webkit-tap-highlight-color: transparent
-    
 }
 
-
-
 .transition-3{
-
-    transition-duration: 0.3s;
+    trasition-duration: 0.3s;
     transition-timing-function: ease;
     transition-delay: 0s;
     transition-property: all;
 }
 
 .nav-link{
-
     color: white;
     font-size: 20px;
     font-weight: 700;
     padding: 10px;
-    
-    
 }
 
 .nav-item{
-
     padding: 0 15px;
 }
 
 .text-banner{
-
     margin-top: 170px;
 }
 
@@ -100,7 +88,6 @@ font-weight: 700;
 
     font-size: 48px;
     font-weight: 700;
-
 }
 
 .text-p{
@@ -166,6 +153,7 @@ font-weight: 700;
     padding: 4px;
     
 }
+
 .feature-icon i{
     font-size: 25px;
     color: white;
@@ -176,14 +164,12 @@ ul{
     list-style-type: none;
     padding-top: 20px;
 
-
 }
 
 .img-partner{
 
     padding: 40px;
-   
-    
+     
 }
 
 .mydiv-team{
@@ -210,12 +196,12 @@ ul{
 
 .blog-img{
 
-    transition: all .9s;
+    transition: all 1.5s;
 }
 
 .card:hover .blog-img{
 
-    transform: scale(1.5);
+    transform: scale(1.2);
     
 }
 
@@ -224,3 +210,16 @@ ul{
     overflow:hidden;
     
 }
+
+     /* animation */
+
+     .product-card:hover{
+
+        margin-top: -15px;
+     }
+
+     .product-card{
+        
+        transition: all .3s;
+
+     }
